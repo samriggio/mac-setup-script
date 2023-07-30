@@ -52,17 +52,17 @@ defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false  
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
 # Finder: allow quitting via ⌘ + Q; doing so will also hide desktop icons
-defaults write com.apple.finder QuitMenuItem -bool true
+# defaults write com.apple.finder QuitMenuItem -bool true
 
 # Set Desktop as the default location for new Finder windows
 # defaults write com.apple.finder NewWindowTarget -string "PfDe"
 # defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}/Desktop/"
 
 defaults write com.apple.finder AppleShowAllFiles -bool true        # Finder: Show hidden files by default
-defaults write NSGlobalDomain AppleShowAllExtensions -bool true     # Finder: Show all filename extensions
+#defaults write NSGlobalDomain AppleShowAllExtensions -bool true     # Finder: Show all filename extensions
 defaults write com.apple.finder ShowStatusBar -bool true            # Finder: Show status bar
 defaults write com.apple.finder ShowPathbar -bool true              # Finder: Show path bar
-defaults write com.apple.finder _FXShowPosixPathInTitle -bool true  # Finder: Display full POSIX path as window title
+#defaults write com.apple.finder _FXShowPosixPathInTitle -bool true  # Finder: Display full POSIX path as window title
 defaults write com.apple.finder _FXSortFoldersFirst -bool true      # Finder: Keep folders on top when sorting by name
 chflags nohidden ~/Library     # Show the ~/Library folder
 sudo chflags nohidden /Volumes # Show the /Volumes folder

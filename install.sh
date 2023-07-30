@@ -28,21 +28,21 @@ brews=(
   python3
 
   # Software
-  adobe-acrobat-pro
+  #adobe-acrobat-pro
   github
-  warp
+  #warp
   vlc
   caffeine
-  sloth         # https://sveinbjorn.org/sloth
-  soundsource   # https://rogueamoeba.com/soundsource/
+  #sloth         # https://sveinbjorn.org/sloth
+  #soundsource   # https://rogueamoeba.com/soundsource/
   steam
   qbittorrent
   windscribe
   touch-bar-simulator
-  bettertouchtool
+  #bettertouchtool
   activedock
   disk-inventory-x
-  fedora-media-writer
+  #fedora-media-writer
   alt-tab
   audacity
   balenaetcher
@@ -58,7 +58,7 @@ brews=(
   mari0
   ntfstool
   plex
-  
+  launchpad-manager
   
 
   # Command line tools
