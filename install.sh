@@ -19,7 +19,7 @@ brews=(
   vivaldi
   rectangle
   visual-studio-code
-  macfuse
+  #macfuse
   mas
 
   # Command line utils
@@ -28,9 +28,7 @@ brews=(
   python3
 
   # Software
-  #adobe-acrobat-pro
-  github
-  #warp
+  #github
   vlc
   caffeine
   #sloth         # https://sveinbjorn.org/sloth
@@ -38,15 +36,13 @@ brews=(
   steam
   qbittorrent
   windscribe
-  touch-bar-simulator
-  #bettertouchtool
+  #touch-bar-simulator
   activedock
   disk-inventory-x
-  #fedora-media-writer
   alt-tab
   audacity
   balenaetcher
-  brave-browser
+  #brave-browser
   gimp
   inkscape
   iterm2
@@ -54,9 +50,9 @@ brews=(
   stellarium
   geany
   libreoffice
-  nasas-eyes
-  mari0
-  ntfstool
+  #nasas-eyes
+  #mari0
+  #ntfstool
   plex
   launchpad-manager
   
