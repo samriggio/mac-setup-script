@@ -37,7 +37,6 @@ brews=(
   qbittorrent
   windscribe
   #touch-bar-simulator
-  activedock
   disk-inventory-x
   alt-tab
   audacity
