@@ -54,6 +54,7 @@ brews=(
   #ntfstool
   plex
   launchpad-manager
+  seafile-client
   
 
   # Command line tools
