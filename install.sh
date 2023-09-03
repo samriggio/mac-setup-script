@@ -55,7 +55,8 @@ brews=(
   plex
   launchpad-manager
   seafile-client
-  
+  unnaturalscrollwheels
+  rwts-pdfwriter
 
   # Command line tools
   python
