@@ -57,6 +57,7 @@ brews=(
   seafile-client
   unnaturalscrollwheels
   rwts-pdfwriter
+  openmtp
 
   # Command line tools
   python
