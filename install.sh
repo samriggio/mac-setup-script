@@ -58,6 +58,7 @@ brews=(
   unnaturalscrollwheels
   rwts-pdfwriter
   openmtp
+  mp3tag
 
   # Command line tools
   python
