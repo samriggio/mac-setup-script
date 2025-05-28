@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 taps=(
-  # "popcorn-official/popcorn-desktop https://github.com/popcorn-official/popcorn-desktop.git"
 )
 
 # See https://sdkman.io/
@@ -15,11 +14,7 @@ brews=(
   # Install some stuff before others so we can start settings things up!
   # Software
   firefox
-  google-chrome
-  vivaldi
   rectangle
-  visual-studio-code
-  #macfuse
   mas
 
   # Command line utils
@@ -28,37 +23,37 @@ brews=(
   python3
 
   # Software
-  #github
-  vlc
-  caffeine
-  #sloth         # https://sveinbjorn.org/sloth
-  #soundsource   # https://rogueamoeba.com/soundsource/
-  steam
-  qbittorrent
-  windscribe
-  #touch-bar-simulator
-  disk-inventory-x
   alt-tab
+  android-platform-tools
   audacity
   balenaetcher
-  #brave-browser
-  gimp
-  inkscape
-  iterm2
-  zoom
-  stellarium
+  brave-browser
+  caffeine
+  coconutbattery
+  disk-inventory-x
   geany
-  libreoffice
-  #nasas-eyes
-  #mari0
-  #ntfstool
-  plex
+  gimp
+  github
+  google-chrome
+  grandperspective
+  inkscape
   launchpad-manager
-  seafile-client
-  unnaturalscrollwheels
-  rwts-pdfwriter
-  openmtp
+  libreoffice
   mp3tag
+  openmtp
+  plex
+  qbittorrent
+  rwts-pdfwriter
+  steam
+  tabby
+  unnaturalscrollwheels
+  unetbootin
+  virtualbox
+  visual-studio-code
+  vivaldi
+  vlc
+  windscribe
+  zoom
 
   # Command line tools
   python
