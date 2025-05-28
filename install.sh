@@ -31,6 +31,7 @@ brews=(
   caffeine
   coconutbattery
   disk-inventory-x
+  displaylink
   geany
   gimp
   github
