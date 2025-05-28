@@ -38,15 +38,18 @@ brews=(
   google-chrome
   grandperspective
   inkscape
+  keka
   launchpad-manager
   libreoffice
   mp3tag
+  opencore-patcher
   openmtp
   plex
   qbittorrent
   rwts-pdfwriter
   steam
   tabby
+  tailscale
   unnaturalscrollwheels
   unetbootin
   virtualbox
@@ -54,6 +57,7 @@ brews=(
   vivaldi
   vlc
   windscribe
+  wireguard-go
   zoom
 
   # Command line tools
